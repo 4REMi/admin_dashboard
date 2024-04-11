@@ -4,6 +4,7 @@
 /* Apply Poppins font to all text on the page */
 body {
     font-family: 'Poppins', sans-serif;
+    zoom: 90%; /* Set default zoom to 90% */
 
 }
 
