@@ -190,16 +190,16 @@ body {
   }
 
   .messages .icon {
-    background-image: url('../resources/message-fast-outline.svg');
+    background-image: url('resources/message-fast-outline.svg');
   }
   
   .dashboard .icon {
-    background-image: url('../resources/view-dashboard.svg');
+    background-image: url('resources/view-dashboard.svg');
 
   }
 
   .tasks .icon {
-    background-image: url('../resources/checkbox-marked-circle-auto-outline.svg');
+    background-image: url('resources/checkbox-marked-circle-auto-outline.svg');
 
   }
 
